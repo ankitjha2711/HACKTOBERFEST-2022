@@ -19,7 +19,9 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 1. Fork this repository by clicking the Fork button on the top right corner of this page.
 2. Create a new file and **add** a new Program in any programming language like C++, Java, Python, etc. (Note: No duplicate programs can exist!)
 4. After adding the code, Commit your changes.
-5. Create a new pull request from your forked repository (Button located at the top of your repository)
+5. Create a new pull request from your forked repository (Button located at the top of your repository).
+6. Single-line commits will be rejected and marked as spam.
+7. For DSA Code: Try to add time and space complexity to the actual code as comments.
 8. Star this repository!
 
 ### Don't forget to Follow and Share 
