@@ -1,6 +1,12 @@
 
 ![image](https://user-images.githubusercontent.com/76564889/194760114-bbda988e-7abb-4e7f-8d37-7773c8978aa2.png)
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=Guys+Contribute+Crow+🕺!)](https://git.io/typing-svg)
+ 
+</div>
+
 # 💁‍♂️HacktoberFest 2022
 
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
